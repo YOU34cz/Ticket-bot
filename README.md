@@ -2,6 +2,17 @@
 
 - **Current version: 1.0**
 
+## Change Log
+
+### Version 1.0
+- Initial release with ticket open/close system
+- Webhook logging for ticket open and close events
+- SQLite database tracking user tickets with details (reason, timestamps, roles)
+- Commands: `!setup`, `!open <reason>`, `!close [channel]`, `!guide`
+- Role-based permission control for admins and ticket users
+
+---
+
 ## 1. Create Your Discord Bot and Get Token
 - Go to [Discord Developer Portal](https://discord.com/developers/applications)
 - Click **New Application**, name it, and create
