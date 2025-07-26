@@ -31,10 +31,10 @@ Create a file called `config.json` in your bot folder, with this structure:
 ```
 ## 4. Requirements
 
+- **DB Browser (SQLLite)** (download from [sqlitebrowser.org](https://sqlitebrowser.org/dl/))
 - **Python 3.8+** (download from [python.org](https://www.python.org/downloads/))
 - **discord.py** library  
   Install with:
   ```bash
   pip install discord.py
   ```
-  **DB Browser (SQLLite)** (download from [sqlitebrowser.org](https://sqlitebrowser.org/dl/))
