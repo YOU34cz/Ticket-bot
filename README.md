@@ -36,3 +36,5 @@ Create a file called `config.json` in your bot folder, with this structure:
   Install with:
   ```bash
   pip install discord.py
+  ```
+  **DB Browser (SQLLite)** (download from [sqlitebrowser.org](https://sqlitebrowser.org/dl/))
