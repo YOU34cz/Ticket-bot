@@ -28,3 +28,11 @@ Create a file called `config.json` in your bot folder, with this structure:
   "open_webhook": "YOUR_OPEN_WEBHOOK_URL",
   "close_webhook": "YOUR_CLOSE_WEBHOOK_URL"
 }
+```
+## 4. Requirements
+
+- **Python 3.8+** (download from [python.org](https://www.python.org/downloads/))
+- **discord.py** library  
+  Install with:
+  ```bash
+  pip install discord.py
