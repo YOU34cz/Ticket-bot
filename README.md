@@ -1,5 +1,7 @@
 # Ticket Bot Setup Guide
 
+- **Current version: 1.0**
+
 ## 1. Create Your Discord Bot and Get Token
 - Go to [Discord Developer Portal](https://discord.com/developers/applications)
 - Click **New Application**, name it, and create
