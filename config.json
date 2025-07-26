@@ -1,0 +1,7 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "admin_role": "Admin",
+  "ticket_role": "Member",
+  "open_webhook": "YOUR_OPEN_WEBHOOK_URL",
+  "close_webhook": "YOUR_CLOSE_WEBHOOK_URL"
+}
